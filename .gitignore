@@ -1,0 +1,11 @@
+Thumbs.db
+*.DS_Store
+venv
+.DS_Store?
+.Trashes
+*.pyc
+.idea
+bin/bundle
+
+node_modules/
+tmp/
